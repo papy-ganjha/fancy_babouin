@@ -3,8 +3,8 @@
 ## Installation
 
 ```bash
-git clone git_url
-cd repo_name
+git clone git@github.com:papy-ganjha/fancy_babouin.git
+cd fancy_babouin
 conda activate $YOUR_ENV
 pip install -e .
 ```
