@@ -13,5 +13,7 @@ pip install -e .
 ```python
 from babouin import super_poulet
 
+folder_path = "./" #This is an example
 cool_name = super_poulet(folder_path)
+print(cool_name)
 ```
