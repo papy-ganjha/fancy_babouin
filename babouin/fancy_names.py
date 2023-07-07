@@ -130,7 +130,7 @@ ADJECTIVES = [
     'coupable',
     'deborde',
     'hebdomadaire',
-    'degoûte',
+    'degoute',
     'jeune',
     'deprime',
     'journalier',
